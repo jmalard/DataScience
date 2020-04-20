@@ -1,3 +1,2 @@
 # DataScience
-Data Science  Projects
-Uploaded files
+Projetos da Formação Cientista de Dados da Data Science Academy
